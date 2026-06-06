@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ReaderApp.exe" version="1.0.0.2" publicKeyToken="46b34e3c23e9f88a" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ReaderApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ReaderApp.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" ID="Custom" SameSite="site" Unrestricted="true" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ADControlsLib.dll" size="64512">
+      <assemblyIdentity name="ADControlsLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>FcRP+0e1BS7QNhDKGfsWY7Go27M=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ADRcpLib.dll" size="24576">
+      <assemblyIdentity name="ADRcpLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>9EqLEX5B8NVhUppIjY/dPquUU60=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ADSioLib.dll" size="24576">
+      <assemblyIdentity name="ADSioLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>tqC5wKUbCNL5sQE5DoogHoT2tCM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ADUtilsLib.dll" size="32256">
+      <assemblyIdentity name="ADUtilsLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>DR4lQZUd65vkxk89iM04olqeSw0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ReaderApp.exe" size="113040">
+      <assemblyIdentity name="ReaderApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>6u7uxjUkngThwd3dKV4DdlKEFng=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ReaderApp.exe.config" size="134">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZYVCbF014jyazUw+0nEkH92/ao4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on
+           and is designed to work with. Uncomment the appropriate elements
+           and Windows will automatically select the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=HUYLEE\Le HUy" issuerKeyHash="3c9f11498a448bdabe6a26f57234205cda6e5443" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>+w16T9R+yuArfu8eo49AJOqnkQU=</DigestValue></Reference></SignedInfo><SignatureValue>IlqdXE9js/PhvvrRJCbKc4sJwBwZcfpoBMaXVKnks5DE4TwPjGayrp14f5K8GGX1iTJ3QISxl32eATgOC/SC39/3sG7cFvEvq1SXi5r5sNMQue0+ZQDeMo9IbUpKuK8gqUsor6zis2nC2+LnPAaLJKqCVdOmIXM34HdYHeCr+O4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uufjc0s1qlgFXid1F/x9IFHAYTmeS2oV+BwQe8L9+kUmy64dkjWdPNsnndRRHtiWp7gqM6wQwWvz8b2XoerJe7Q+isd3a4+VGqLprNyCVrCesP9RyUAy3/dzoFa4xNE3SJai3RGV6AQDh4LQjpUZdaS0eU8KdoA8F2RvaXa4wBU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0591a7ea24408fa31eef7e2be0ca7ed44f7a0dfb" Description="" Url=""><as:assemblyIdentity name="ReaderApp.exe" version="1.0.0.2" publicKeyToken="46b34e3c23e9f88a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=HUYLEE\Le HUy</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>c9/3viW4YW0pf0ZBmmG+nrUkGtI=</DigestValue></Reference></SignedInfo><SignatureValue>IdeONY6D0S7a8hc5pNZDSXGNUfjoMFJirVNQTbGe+bmF7rzlWIWKTRaQczH+YX4JjB5lTDQ518yz7PNOo82QjlX/6SReIXJo6cf6KCkXdC8kkosp0zP2xMjgx0ADclx69PVgah7W0kKrn5ZoyFR9vcntjg/GsMGLLWOaMfcll+w=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uufjc0s1qlgFXid1F/x9IFHAYTmeS2oV+BwQe8L9+kUmy64dkjWdPNsnndRRHtiWp7gqM6wQwWvz8b2XoerJe7Q+isd3a4+VGqLprNyCVrCesP9RyUAy3/dzoFa4xNE3SJai3RGV6AQDh4LQjpUZdaS0eU8KdoA8F2RvaXa4wBU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQKb/XW2DBz6JFI3C45mdNvjANBgkqhkiG9w0BAQUFADAlMSMwIQYDVQQDHhoASABVAFkATABFAEUAXABMAGUAIABIAFUAeTAeFw0yNTExMTYwODQ2MTdaFw0yNjExMTYxNDQ2MTdaMCUxIzAhBgNVBAMeGgBIAFUAWQBMAEUARQBcAEwAZQAgAEgAVQB5MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC65+NzSzWqWAVeJ3UX/H0gUcBhOZ5LahX4HBB7wv36RSbLrh2SNZ082yed1FEe2JanuCozrBDBa/PxvZeh6sl7tD6Kx3drj5Uaoums3IJWsJ6w/1HJQDLf93OgVrjE0TdIlqLdEZXoBAOHgtCOlRl1pLR5Twp2gDwXZG9pdrjAFQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBACa42hlZgUjQLBrdAMeRu5fq9ONfeSYMuaFrLoIQHS2j6d9Hhu5VONsUxeR7DIf6tWYBO+9WCfncsIvQ2vOHikmvqJ3sK7RF1gKU8C5giyA46RBFD7BhtIyMGC49hfxFJsasFzwuMWpTjrSPWYVT222uQwX4ADuhlV0cVw1RHjJH</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

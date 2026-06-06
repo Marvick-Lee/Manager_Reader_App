@@ -1,0 +1,14 @@
+[COMMUNICATION]
+Communication=2
+IP=192.168.2.115
+IPPort=49152
+PortName=COM1
+BaudRate=9600
+DataBit=3
+StopBit=0
+Parity=0
+Handshake=0
+USBDevPath=\\?\hid#vid_04d8&pid_033f&mi_00#8&f1eeab9&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+USBType=2
+AddressList=
+TemporaryPath=

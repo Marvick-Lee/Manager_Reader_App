@@ -1,0 +1,166 @@
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\bin\Debug\ReaderSDK.exe
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\bin\Debug\ReaderSDK.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\bin\Debug\ReaderLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.frmConnect.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.Components.LimitTextBox.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ListView.StatusListView.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.GridView.TagsDataGridView.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.frmMain.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.Properties.Resources.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csproj.GenerateResource.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csproj.CoreCompileInputs.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csproj.CopyComplete
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.exe
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMBaseSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMReadDemo.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMSeniorSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMWriteEPC.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMCustomSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\bin\Debug\ReaderSDK.exe
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\bin\Debug\ReaderSDK.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\bin\Debug\ReaderLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\bin\Debug\ReaderLib.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.csprojAssemblyReference.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.frmConnect.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.Components.LimitTextBox.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.ListView.StatusListView.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.GridView.TagsDataGridView.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.frmMain.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.Properties.Resources.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.ucMagic.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.ucMBaseSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.ucMCustomSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.ucMReadDemo.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.ucMSeniorSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.ucMWriteEPC.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.csproj.GenerateResource.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.csproj.CoreCompileInputs.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.csproj.CopyComplete
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.exe
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\DemoMM\obj\Debug\ReaderSDK.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMMainPage.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Reader\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csprojAssemblyReference.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ReaderSDK.exe.config
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ReaderSDK.exe
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ReaderSDK.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ADRcpLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ADSioLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ADUtilsLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ADRcpLib.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ADRcpLib.xml
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ADSioLib.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ADSioLib.xml
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ADUtilsLib.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ADUtilsLib.xml
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.frmConnect.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.frmMain.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.Properties.Resources.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMMainPage.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMBaseSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMCustomSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMReadDemo.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMSeniorSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMWriteEPC.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csproj.GenerateResource.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csproj.CoreCompileInputs.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csproj.CopyComplete
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.exe
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csproj.AssemblyReference.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ADControlsLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\Aosid\ReaderMM\ReaderSDK\bin\Debug\ADControlsLib.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ReaderSDK.exe.config
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ReaderSDK.exe
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ReaderSDK.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ADControlsLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ADRcpLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ADSioLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ADUtilsLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ADControlsLib.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ADRcpLib.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ADRcpLib.xml
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ADSioLib.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ADSioLib.xml
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ADUtilsLib.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\bin\Debug\ADUtilsLib.xml
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csproj.AssemblyReference.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.frmConnect.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.frmMain.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.Properties.Resources.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMMainPage.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMBaseSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMCustomSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMReadDemo.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMSeniorSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.ucMWriteEPC.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csproj.GenerateResource.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csproj.CoreCompileInputs.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.csproj.CopyComplete
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.exe
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderMM\ReaderSDK\obj\Debug\ReaderSDK.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ReaderSDK.exe.config
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ReaderSDK.exe
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ReaderSDK.pdb
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADControlsLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADRcpLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADSioLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADUtilsLib.dll
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.frmConnect.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.frmMain.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.Properties.Resources.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMMainPage.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMBaseSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMCustomSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMReadDemo.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMSeniorSettings.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMWriteEPC.resources
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.csproj.GenerateResource.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.csproj.CoreCompileInputs.cache
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.csproj.CopyComplete
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.exe
+E:\VS2012\ApplicationSolution\Reader\RFID\SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.pdb
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ReaderSDK.exe.config
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ReaderSDK.exe
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ReaderSDK.pdb
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADControlsLib.dll
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADRcpLib.dll
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADSioLib.dll
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADUtilsLib.dll
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.csproj.AssemblyReference.cache
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.frmConnect.resources
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.frmMain.resources
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.Properties.Resources.resources
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMMainPage.resources
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMBaseSettings.resources
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMCustomSettings.resources
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMReadDemo.resources
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMSeniorSettings.resources
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMWriteEPC.resources
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.csproj.GenerateResource.cache
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.csproj.CoreCompileInputs.cache
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.csproj.Up2Date
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.exe
+C:\Users\Le HUy\Desktop\sdk_mm\900MHz UHF Reader SDK(MM)\GUI(源代码)\VS\MM_VS_SDK\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.pdb
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\bin\Debug\ReaderSDK.exe.config
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\bin\Debug\ReaderSDK.exe
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\bin\Debug\ReaderSDK.pdb
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADControlsLib.dll
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADRcpLib.dll
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADSioLib.dll
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\bin\Debug\ADUtilsLib.dll
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.csproj.AssemblyReference.cache
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.frmConnect.resources
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.frmMain.resources
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.Properties.Resources.resources
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMMainPage.resources
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMBaseSettings.resources
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMCustomSettings.resources
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMReadDemo.resources
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMSeniorSettings.resources
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.ucMWriteEPC.resources
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.csproj.GenerateResource.cache
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.csproj.CoreCompileInputs.cache
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.csproj.Up2Date
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.exe
+C:\Users\Le HUy\Desktop\ReaderSDK\ReaderSDK_Demo\obj\Debug\ReaderSDK.pdb
